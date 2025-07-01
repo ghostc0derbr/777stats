@@ -1,0 +1,11 @@
+pandas
+requests
+python-dotenv
+beautifulsoup4
+lxml
+scikit-learn
+tabulate
+tqdm
+selenium
+webdriver-manager
+customtkinter
